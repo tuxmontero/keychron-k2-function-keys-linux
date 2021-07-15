@@ -15,7 +15,7 @@ Paste the following into the window:
 
 ```
 [Unit]
-Description=The command to make the Keychron K2 work
+Description=The command to make the Keychron K8 work
 
 [Service]
 Type=oneshot
