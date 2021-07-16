@@ -1,4 +1,4 @@
-# Enable Function Keys On The Keychron K2 Mechanical Keyboard Under Linux
+# Enable Function Keys On The Keychron K8 Mechanical Keyboard Under Linux
 
 
 Below, you'll find the steps required to create a systemd command that will run at boot to disable the media keys and restore f1-f12 functionality.
